@@ -1,0 +1,1 @@
+/home/knoldus/kafka/texts-microservice/target/debug/texts-microservice: /home/knoldus/kafka/texts-microservice/src/main.rs /home/knoldus/kafka/texts-microservice/src/my_consumer.rs /home/knoldus/kafka/texts-microservice/src/my_producer.rs /home/knoldus/kafka/texts-microservice/src/texts.rs
